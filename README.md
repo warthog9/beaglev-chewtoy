@@ -4,8 +4,8 @@ The board takes the existing 2x20 header and either via a through-hole, or smt, 
 (assuming the connetor is on the edge, and rotates it 180deg so if you happen to have a large heat sink, or something
 else that's blocking the pins they might still be accessible for hats, etc
 
-![Front View](images/osh_front.png | width=25)
-![Back View](images/osh_back.png | width=25)
+![Front View](images/osh_front.png)
+![Back View](images/osh_back.png)
 
 # Where to get one built
 
